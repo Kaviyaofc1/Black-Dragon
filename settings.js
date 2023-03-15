@@ -47,17 +47,18 @@ global.mess = {
     group: 'Features Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature could be used by bot only',
-    wait: 'In process...',
+    wait: 'Please with...',
+    wal: 'ටිකක් හිටහන් බඩු මග එන ගමන්',
     linkm: 'Where is the link?',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
 }
 
 //media target
-global.thum = fs.readFileSync("./DragonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./DragonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./DragonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./DragonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./DragonMedia/theme/dragonpic.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./DragonMedia/theme/dragonpic.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./DragonMedia/theme/dragonpic.jpg") //ur error pic
+global.thumb = fs.readFileSync("./DragonMedia/theme/dragonpic.jpg") //ur thumb pic
 
 //menu image maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
