@@ -15,17 +15,17 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['94775418384'] //ur owner number
-global.ownername = "Kaviya Ofc" //ur owner name
-global.ytname = "YT: Kabiya ofc" //ur yt chanel name
-global.socialm = "GitHub: kaviyaofc" //ur github or insta name
-global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
+global.ownername = "*🎭🇱🇰 KAVIYA OFC 🇱🇰🎭*" //ur owner name
+global.ytname = "YT: Kaviya ofc" //ur yt chanel name
+global.socialm = "GitHub: Kaviyaofc1" //ur github or insta name
+global.location = "Sri Lanka, Colombo, Galewela" //ur location
 
 //bot bomdy 
 global.ownernomer = "94775418384" //ur number
 global.premium = ['94775418384'] //ur premium number
 global.botname = '⚡ ᴍᴀᴅᴇ ʙʏ ᴋᴀᴠɪʏᴀ ᴏꜰᴄ ᴛᴇᴀᴍ ⚡' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HW0irZWSplaE5vUWpQeRAI" //your theme url which will be displayed on whatsapp
-global.websitex = "https://www.kaviyaofc" //ur website to be displayed
+global.websitex = "http://kaviyaofc.website3.me/" //ur website to be displayed
 global.botscript = 'https://github.com/kaviyaofc1' //script link
 global.themeemoji = "❤️" //ur theme emoji
 global.packname = "⚡ ᴍᴀᴅᴇ ʙʏ ᴋᴀᴠɪʏᴀ ᴏꜰᴄ ᴛᴇᴀᴍ ⚡" //ur sticker watermark packname
